@@ -66,22 +66,6 @@
 			"Name": "PlayFab",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/217fdf581b784571af03d3fb6580368f"
-		},
-		{
-			"Name": "SteamSockets",
-			"Enabled": true
-		},
-		{
-			"Name": "SteamShared",
-			"Enabled": true
-		},
-		{
-			"Name": "SteamController",
-			"Enabled": true
-		},
-		{
-			"Name": "OnlineSubsystemSteam",
-			"Enabled": true
 		}
 	]
 }
