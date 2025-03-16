@@ -8,7 +8,7 @@
 
 ## How to run the sample
 
-1. Go to `config/DefaultEngine.ini`, then replace values marqued as `<your value>` with your product artifacts
+1. Go to `config/DefaultEngine.ini`, then replace EOS Configuration with your EOS Product configuration
 2. Open the .uproject file with UE Editor Version 5.4.4
 3. Go to `Edit->Plugins`, then make sure that Easy OSS Plugin is activated. You must have the plugin installed for this engine first.
-4. 
+4. To test without Auth Dev Tool, go to MainMenu/Levels/Startup/Widgets/WB_Login, then replace Auto Login Task with Login
