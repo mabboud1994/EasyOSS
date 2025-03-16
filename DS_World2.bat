@@ -1,1 +1,1 @@
-"C:\Program Files\Epic Games\UE_5.4\Engine\Binaries\Win64\UnrealEditor.exe" "D:\EasyOSSTutorial\EasyOSS-EOS\EasyOSSTutorial.uproject" World2 -server -WINDOWED -ResY=450 -ResX=450 -epicapp="TrustedServer" -log -port=9000
+"path\to\your\UnrealEditor.exe" "path\to\your\EasyOSSTutorial.uproject" World2 -server -WINDOWED -ResY=450 -ResX=450 -epicapp="<your trusted server artifact>" -log -port=9000
